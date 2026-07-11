@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 802,
+      "id": 803,
       "main": "Clouds",
-      "description": "scattered clouds",
-      "icon": "03n"
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 14.09,
-    "feels_like": 13.9,
-    "temp_min": 13.82,
-    "temp_max": 14.09,
+    "temp": 16.3,
+    "feels_like": 16.34,
+    "temp_min": 16.04,
+    "temp_max": 18.53,
     "pressure": 1010,
     "humidity": 90,
     "sea_level": 1010,
-    "grnd_level": 979
+    "grnd_level": 978
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.73,
-    "deg": 14,
-    "gust": 3.47
+    "speed": 1.57,
+    "deg": 27,
+    "gust": 3.87
   },
   "clouds": {
-    "all": 33
+    "all": 58
   },
-  "dt": 1783738449,
+  "dt": 1783750617,
   "sys": {
     "type": 2,
     "id": 2019170,
@@ -43,5 +43,5 @@
   "id": 3109642,
   "name": "Santiago de Compostela",
   "cod": 200,
-  "_last_updated_utc": "2026-07-11T02:54:09.524Z"
+  "_last_updated_utc": "2026-07-11T06:16:57.652Z"
 }
